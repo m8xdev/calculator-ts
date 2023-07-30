@@ -5,8 +5,8 @@ import prompts = require("prompts")
 let numbers: number[] = []
 let operations: string[] = []
 
-const inputNormal: string = "Enter a expression.\n'clean' for clear all inputs\n'reset' to reset the result: "
-const inputCleanOrReset: string = "Enter a expression: "
+const inputNormal: string = "Enter an expression.\n'clean' for clear all inputs\n'reset' to reset the result: "
+const inputCleanOrReset: string = "Enter an expression: "
 
 function parseExp(input: string): void {
     for (let i = 0; i < input.length; i++) {
