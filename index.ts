@@ -1,4 +1,4 @@
-// Calculator by M8X
+// Calculator by nullpeer
 
 import prompts = require("prompts")
 
