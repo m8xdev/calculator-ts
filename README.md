@@ -1,4 +1,4 @@
-# Первый запуск
+# Let’s start
 <code>npm i</code>
 <br />
 <code>sudo npm i -g ts-node typescript</code>
